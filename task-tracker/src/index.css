@@ -60,7 +60,7 @@ body {
 }
 
 .task {
-  background: #f4f4f431;
+  background: #312f2f31;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
@@ -74,6 +74,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
 }
 
 .add-form {
