@@ -17,10 +17,10 @@ body {
 .container {
   max-width: 66vh;
   margin: 50px auto;
+  padding: 1rem;
   overflow: auto;
   min-height: 300px;
   border: 1px solid steelblue;
-  padding: 1px;
   border-radius: 5px;
  /*background-color: #313133a4;*/
 }
